@@ -9,4 +9,4 @@ Estudiante de Ingeniería Informática en la Universidad de Jaén.
 * **Correo**: mjgd0007@red.ujaen.es
 * **GitHub**: https://github.com/mjgd0007
 * **Trello**: https://trello.com/mjgd0007
-* **Telegram**: @marigdd
+* **Telegram**: marigdd
